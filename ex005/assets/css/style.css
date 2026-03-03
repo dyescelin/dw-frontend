@@ -1,0 +1,19 @@
+a{
+   text-decoration: oldlace;
+    background-color: black;
+    color: pink;
+    display: inline;
+    padding: 10px;
+    width: 100px;
+    text-align: center;
+
+
+
+
+
+}
+a:hover {
+   background-color: red;
+    color: white;
+    border: 1px solid red;
+}
